@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+networkx
+qrcode
+Pillow
+streamlit-webrtc
+pyzbar
+opencv-python
+numpy

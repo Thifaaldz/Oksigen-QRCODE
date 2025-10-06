@@ -1,0 +1,2 @@
+timestamp,tube_id,branch,action,notes,name,nik,phone,address,purpose,est_duration,return_date
+2025-10-05T17:37:06.137022,TUBE-Cempaka_Putih-001,Cempaka Putih,borrow,scan_method=upload,Rosita,20230803103,0895330347429,Jakarta,sakit,3,2025-10-08
